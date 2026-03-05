@@ -1,4 +1,4 @@
-algoritmo "Estatasticas_da_Turma"
+algoritmo "Estatiscas_da_Turma"
 var
    UsuarioEscolheu:caracter
    liberacao:logico
